@@ -16,10 +16,13 @@
 ==================== Example =======================   
 A "conjugate-negative format" of an STBC:
 
-STBC =  [1       2        3        0;
-        -2j       1j      0        3j;
-         3j       0j        -1j       2j;
-         0       3j       -2j     -1j];
+STBC = 
+         
+         [1       2        3        0;
+         -2j       1j      0        3j;
+          3j       0j        -1j       2j;
+          0       3j       -2j     -1j];
+         
 The output of the function is:
  
 EVCM:
