@@ -1,6 +1,7 @@
 # buildRealOSTBC
 
---------------------------- Description ---------------------------
+Description
+ ------------------------------------------------------
 1. The file 'RealOstbcFunctions' contains function that help to build real OSTBC design as suggested in Jafarkhani's paper,
    including:
    - Find Hurwitz-Radon number.
@@ -9,11 +10,12 @@
    - Build OSTBC design.
 2. The main.py script shows an example of how to use these functions.
    
---------------------------- Example ---------------------------
+Output Example
+------------------------------------------------------
 1) Hurwitz-Radon parameters of 8 are:
 (a,b,c,d) = (3, 1, 0, 3)
+where n = b*2^a, a = 4c+d
 
-where  b*2^a,  a = 4c+d. 
 -----------------------------------------------------------------
 2) Hurwitz-Radon number fof 8:
 8
