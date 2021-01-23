@@ -10,7 +10,6 @@
 2. The main.py script shows an example of how to use these functions.
    
 ==================== Example =======================   
------------------------------------------------------------------
 1) Hurwitz-Radon parameters of 8 are:
 (a,b,c,d) = (3, 1, 0, 3)
 
